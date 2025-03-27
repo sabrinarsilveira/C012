@@ -15,17 +15,6 @@ Este projeto simula o funcionamento de semáforos em uma rua, utilizando múltip
 - **queue.Queue()** (para gerenciar os carros de forma segura)
 - **time e random** (para controle de tempo e eventos aleatórios)
 
-## 🚀 Como Executar
-1. Certifique-se de ter o Python instalado.
-2. Clone este repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-   ```
-3. Execute o script:
-   ```sh
-   python simulacao_semaforos.py
-   ```
 
 ## 📊 Saída Esperada
 O programa exibirá mensagens indicando o estado dos semáforos, os carros sendo inseridos e removidos da rua e, caso ocorra um acidente, a simulação será encerrada com uma notificação.
